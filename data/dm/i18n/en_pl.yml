@@ -1,0 +1,5 @@
+"Reason": "Powód"
+"media record does not exist": "wpis nie istnieje"
+"media record exists, although media file is missing": "wpis istnieje, ale nie ma pliku"
+"media record exists, but there's no path given": "wpis istnieje, ale nie ma podanej ścieżki pliku"
+"Missing media": "Brakujące media"
