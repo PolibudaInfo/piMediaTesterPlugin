@@ -1,0 +1,6 @@
+services:
+  mediaTester:
+    class: %mediaTester.class%
+    
+parameters:
+  mediaTester.class: piMediaTester
